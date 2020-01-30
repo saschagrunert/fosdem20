@@ -1,0 +1,7 @@
+*.conf
+*.json
+*.service
+*.yml
+Containerfile*
+deny-write
+fosdem20
