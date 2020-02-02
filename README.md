@@ -6,4 +6,4 @@ This repository contains all the resources of the FOSDEM 2020 talk about
 [Podman](https://podman.io).
 
 - [the slides](https://slides.com/saschagrunert/fosdem20)
-- [the talk description](https://fosdem.org/2020/schedule/event/containers_podman)
+- [the talk](https://fosdem.org/2020/schedule/event/containers_podman)
